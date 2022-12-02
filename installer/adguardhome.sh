@@ -4,7 +4,7 @@ clear
 echo "############################################################################"
 echo "#                          Adguard Home Installer                          #"
 echo "#                              by Nico L.                                  #"
-echo "#                   https://github.com/nilasystem/requestscripts           #"
+echo "#                   https://github.com/ipexadev/requestscripts             #"
 echo "#                          Last Update: 24.09.2022                         #"
 echo "############################################################################"
 sleep 3
